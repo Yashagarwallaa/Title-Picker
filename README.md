@@ -1,2 +1,2 @@
 # Title-Picker
-A simple chrome extension that picks the chrome tab title.
+Chrome extension that picks the chrome tab title.
