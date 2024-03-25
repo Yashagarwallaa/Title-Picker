@@ -1,6 +1,6 @@
 {
     "name" : "Title Picker",
-    "description" : "returns the title of the chrome tab",
+    "description" : "Returns the title of the chrome tab",
     "version" : "1.0",
     "manifest_version" : 3,
     "background" :{
